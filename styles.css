@@ -1,4 +1,16 @@
 p{
     color: green;
-    background-color: red;
+}
+
+.lukumerkki{
+    color: blue;
+    font-size: large;
+}
+
+ul,ol{
+    color: palevioletred;
+}
+
+body{
+    background-color: bisque;
 }
