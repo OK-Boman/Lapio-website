@@ -1,6 +1,3 @@
-p{
-    color: green;
-}
 
 .lukumerkki{
     color: blue;
@@ -25,6 +22,11 @@ body{
     height: 100px;
     float: left;
     margin-right: 5px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: green;
+    color: blue;
+    text-transform: uppercase;
     background-color: red;
   }
   
@@ -34,6 +36,11 @@ body{
     float: left;
     margin-left: 5px;
     margin-right: 5px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    color: blue;
+    text-transform: uppercase;
     background-color: yellow;
   }
   
@@ -42,5 +49,10 @@ body{
     height: 100px;
     float: left;
     margin-left: 5px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: yellow;
+    color: blue;
+    text-transform: uppercase;
     background-color: green;
   }
